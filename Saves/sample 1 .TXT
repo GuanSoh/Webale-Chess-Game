@@ -1,0 +1,45 @@
+Example: Type of chess,cordinate of x, cordinate of y,chess's color, chess's image number //
+Round:13
+Turn:Red
+Next Transfer Time is:16
+Now Triangle is remain:false
+Arrow,0,1,Blue,0
+------
+Arrow,4,4,Blue,0
+------
+Arrow,6,1,Blue,0
+------
+Plus,0,0,Blue,1
+------
+Triangle,1,0,Blue,1
+------
+Chevron,2,0,Blue,3
+------
+Sun,3,3,Blue,4
+------
+Chevron,4,0,Blue,3
+------
+Triangle,5,0,Blue,1
+------
+Plus,6,0,Blue,1
+------
+Arrow,0,6,Red,0
+------
+Arrow,2,3,Red,0
+------
+Arrow,6,6,Red,0
+------
+Plus,0,7,Red,1
+------
+Triangle,1,7,Red,1
+------
+Chevron,2,7,Red,3
+------
+Sun,3,4,Red,4
+------
+Chevron,4,7,Red,3
+------
+Triangle,5,7,Red,1
+------
+Plus,6,7,Red,1
+------
