@@ -20,3 +20,6 @@ also contributed to this project.
 ## Game Image:
 
 ![Game Image 1](https://github.com/GuanSoh/Webale-Chess-Game/blob/main/Game%20Image/GameImage1.png)
+
+![Game Image 2](https://github.com/GuanSoh/Webale-Chess-Game/blob/main/Game%20Image/GameImage2.png)
+
