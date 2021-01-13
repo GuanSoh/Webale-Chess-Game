@@ -19,4 +19,4 @@ also contributed to this project.
 
 ## Game Image:
 
-![alt text](http://url/to/img.png)
+![Game Image 1](https://github.com/GuanSoh/Webale-Chess-Game/blob/main/Game%20Image/GameImage1.png)
