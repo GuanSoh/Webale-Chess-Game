@@ -13,7 +13,7 @@ also contributed to this project.
 
 * The Plus can move any number of steps up and down, or left and right.
 
-* The Arrow can only move 1 or 2 steps forward each time, but when it reaches the other edge of the board, it turns around and heads back in the opposite direction. (The icon should also turn around when that happens.)
+* The Arrow can only move 1 or 2 steps forward each time, but when it reaches the other edge of the board, it turns around and heads back in the opposite direction. 
 
 * After blue has moved 2 times, all the blue Triangles will turn into Pluses and vice versa. Similarly, after red has moved 2 times, all the red Triangles will turn into Plusses and vice versa. 
 
