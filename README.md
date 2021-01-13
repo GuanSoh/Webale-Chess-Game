@@ -20,7 +20,8 @@ also contributed to this project.
 
 ## Game Features:
 * Provide save and Load
-* Game Board will be rotate when change round.
+* Game Board will be rotate when other player turn.
+* Resizable window
 
 ## Game Image:
 
