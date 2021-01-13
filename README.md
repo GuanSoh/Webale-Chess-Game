@@ -17,6 +17,11 @@ also contributed to this project.
 
 * After blue has moved 2 times, all the blue Triangles will turn into Pluses and vice versa. Similarly, after red has moved 2 times, all the red Triangles will turn into Plusses and vice versa. 
 
+
+## Game Features:
+* Provide save and Load
+* Game Board will be rotate when change round.
+
 ## Game Image:
 
 ![Game Image 1](https://github.com/GuanSoh/Webale-Chess-Game/blob/main/Game%20Image/GameImage1.png)
